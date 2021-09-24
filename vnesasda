@@ -1,4 +1,4 @@
-local swagmins = {
+local venusot = {
 1626722799, -- Me
 }
-return swagmins
+return venusot
