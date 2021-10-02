@@ -2,6 +2,7 @@ moderatorids = {
 1626722799, -- me
 125134162, -- firsttesterpro mug
 2585545417, -- 2 day prem pro man
+2454141806,
 
 
 
@@ -18,14 +19,14 @@ function venusnames()
         if table.find(moderatorids, Player.UserId) then
             if Player.Character then
                 if Player.Character.Parent.Name == 'Players' then
-                    Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[👑]' .. Player.DisplayName)
+                    Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[💻🌟]' .. Player.DisplayName)
                 end
             end
         else
             if Player.Character then
                 if Player.Character.Parent.Name == 'Players' then
                     if not Player.Character.UpperTorso:FindFirstChild('OriginalSize') then
-                        Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[💻🌟]' .. Player.DisplayName)
+                        Player.Character:FindFirstChildWhichIsA('Humanoid').DisplayName = ('[👑]' .. Player.DisplayName)
                     end
                 end
             end
