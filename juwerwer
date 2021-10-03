@@ -1,0 +1,3 @@
+print("Wrong Game!, Try Again.")
+
+game.Players.LocalPlayer:Kick("Wrong Game")
