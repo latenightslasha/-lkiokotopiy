@@ -12,3 +12,4 @@ local weqeqweqweqweqwe132131 = qweqweqweqweqweqwe[ksdofasodaosdk.UserId]
 
 if weqeqweqweqweqwe132131 then
 ksdofasodaosdk:Kick("Venus Blacklisted Reason : " ..qweqweqweqweqweqwe[ksdofasodaosdk.UserId]["reason"])
+else
